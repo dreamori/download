@@ -1,0 +1,14 @@
+<BookList>
+
+	<School>
+		<BookInfo Id="100010101 " Titile="语文" Edition="人教版" EditionText="人教版" CoverPic="http:/download.dreamori.com/book/school/xiaoxue/1-1/renjiao/yuwen10001010101/cover.jpg" Version="1" DataType = "2" DownloadPath="http:/download.dreamori.com/book/school/xiaoxue/1-1/renjiao/yuwen100010101/data.zip" DownloadSize="8888888"/>
+		
+		<BookInfo Id="100010102" />
+	</School>
+	
+	<Classic>
+		<BookInfo Id="200010001" Titile="三字经" CoverPic="http:/download.dreamori.com/book/classic/guwen/sanzijing200010001/cover.jpg" Version="1" DataType = "1" DownloadPath="http:/download.dreamori.com/book/classic/guwen/sanzijing200010001/data.zip" DownloadSize="8888888"/>
+		<BookInfo Id="200000002" />
+	</Classic>
+	
+</BookList>
